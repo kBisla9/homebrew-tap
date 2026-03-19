@@ -3,8 +3,8 @@ class KnowledgeTree < Formula
 
   desc "Crowdsourced knowledge management for AI agent context"
   homepage "https://github.com/kBisla9/knowledge-tree"
-  url "https://github.com/kBisla9/knowledge-tree/archive/refs/tags/v0.2.7.tar.gz"
-  sha256 "cec0de2be0293be471961e10d8479b47bea3560abb946e6ba2e6f85537a44aed"
+  url "https://github.com/kBisla9/knowledge-tree/archive/refs/tags/v0.2.8.tar.gz"
+  sha256 "d898326dd1c11942d20f9fc8fe3e628d5d948fb665f718afd303ef0a1cfdc70c"
   license "MIT"
 
   depends_on "python@3.12"
