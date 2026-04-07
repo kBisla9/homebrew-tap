@@ -3,8 +3,8 @@ class KnowledgeTree < Formula
 
   desc "Crowdsourced knowledge management for AI agent context"
   homepage "https://github.com/kBisla9/knowledge-tree"
-  url "https://github.com/kBisla9/knowledge-tree/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "6c2673688e1eb7682dd4b0e9f8c32c70c4f2c3b89ea4a259982beacf4c9f6b72"
+  url "https://github.com/kBisla9/knowledge-tree/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "0264519157336e48ea91fdd518a75a9a5f50f1b0ee50a3c63e7fdfff44230c11"
   license "MIT"
 
   depends_on "python@3.12"
@@ -45,8 +45,8 @@ class KnowledgeTree < Formula
     sha256 "793c31816d952cee405b83488ce001c719f325d9cda69f1fc4cd750527640ea6"
   end
   resource "poetry-core" do
-    url "https://files.pythonhosted.org/packages/39/46/7cc89b6ef47803528673585bfa40fa729a7050d9eaedeb7e7f5816300c88/poetry_core-2.3.1.tar.gz"
-    sha256 "96f791d5d7d4e040f3983d76779425cf9532690e2756a24fd5ca0f86af19ef82"
+    url "https://files.pythonhosted.org/packages/10/48/5b4f344c252ee2f75051b6bf7dfb68ab53aa00a107f5f8e5cbf795701dad/poetry_core-2.3.2.tar.gz"
+    sha256 "20cb71be27b774628da9f384effd9183dfceb53bcef84063248a8672aa47031f"
   end
 
   # Runtime dependencies
